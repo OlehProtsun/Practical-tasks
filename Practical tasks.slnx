@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="Extension Task2/Extension Task2.csproj" />
+  <Project Path="Extension Task3/Extension Task3.csproj" />
+  <Project Path="Extension Task4/Extension Task4.csproj" />
+  <Project Path="Extension Task5/Extension Task5.csproj" />
+  <Project Path="Extension Task6/Extension Task6.csproj" />
+  <Project Path="Extension Task7/Extension Task7.csproj" />
+  <Project Path="Extension Task8/Extension Task8.csproj" />
+  <Project Path="Extension Task9/Extension Task9.csproj" />
+  <Project Path="Extension tasks/Extension Task1.csproj" />
+  <Project Path="LINQ1/LINQ1.csproj" Id="9e5aec22-cb9f-4be0-8cf4-e02e5f52730f" />
+</Solution>
