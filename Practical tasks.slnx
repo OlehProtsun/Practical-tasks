@@ -8,5 +8,6 @@
   <Project Path="Extension Task8/Extension Task8.csproj" />
   <Project Path="Extension Task9/Extension Task9.csproj" />
   <Project Path="Extension tasks/Extension Task1.csproj" />
+  <Project Path="LeetCode Task1/LeetCode Task1.csproj" Id="86ca195d-0f55-46b7-aba4-b69ea8ef435d" />
   <Project Path="LINQ1/LINQ1.csproj" Id="9e5aec22-cb9f-4be0-8cf4-e02e5f52730f" />
 </Solution>
