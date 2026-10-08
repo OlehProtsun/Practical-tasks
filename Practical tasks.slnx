@@ -8,6 +8,10 @@
   <Project Path="Extension Task8/Extension Task8.csproj" />
   <Project Path="Extension Task9/Extension Task9.csproj" />
   <Project Path="Extension tasks/Extension Task1.csproj" />
-  <Project Path="LeetCode Task1/LeetCode Task1.csproj" Id="86ca195d-0f55-46b7-aba4-b69ea8ef435d" />
+  <Project Path="LeetCode Task1/LeetCode Task13.csproj" Id="86ca195d-0f55-46b7-aba4-b69ea8ef435d" />
+  <Project Path="LeetCode Task26/LeetCode Task26.csproj" Id="26e5320c-0f66-40a3-82eb-d9d4bf55eb91" />
+  <Project Path="LeetCode Task27/LeetCode Task27.csproj" Id="d31d178e-6f6d-417c-a7c2-1c894321d274" />
+  <Project Path="LeetCode Task28/LeetCode Task28.csproj" Id="aca27432-f256-46a7-b2bb-6527b5a986a0" />
+  <Project Path="LeetCode Task67/LeetCode Task67.csproj" Id="43525763-30ed-4732-ad7f-b03ff08f2367" />
   <Project Path="LINQ1/LINQ1.csproj" Id="9e5aec22-cb9f-4be0-8cf4-e02e5f52730f" />
 </Solution>
